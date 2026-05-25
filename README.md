@@ -19,14 +19,14 @@ claude plugins install @zephyr/douyin-lead-gen
 ### 方式二：手动安装
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ah-douyin-lead-gen.git
+git clone https://github.com/ahang008/ah-douyin-lead-gen.git
 cp -r ah-douyin-lead-gen ~/.claude/skills/
 ```
 
 ### 方式三：项目级安装
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ah-douyin-lead-gen.git
+git clone https://github.com/ahang008/ah-douyin-lead-gen.git
 cp -r ah-douyin-lead-gen /your-project/.claude/skills/
 ```
 
