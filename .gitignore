@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Obsidian
+.obsidian/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Session state (user-specific, not tracked)
+.session-state.md
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Node modules (if any scripts added later)
+node_modules/
